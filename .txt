@@ -1,0 +1,7 @@
+1st Step - download CHAKARA UI and install npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+2nd step - install axios react-router-dom chart.js react-chartjs-2 react-icons
+
+2nd step - go to https://www.coingecko.com/en/api/documentation for the api request 
+
+working === 1. loading, 2. error handling, 3. object props, 4. render component inside the if statement, 5. two components in a component 6. exios inside the useEffect hook try and catch, 7. variable of api common hit point in index.js, 8. chakra ui all things 9. pagination with new Aarray(), 10. useParms in react router dom.. 11. {Date(coin.market_data.last_updated).split('G')[0]}, 12. swith case 
